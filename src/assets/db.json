@@ -1,0 +1,30 @@
+[
+    {
+        "number": 1,
+        "type": "Bug",
+        "description": "Bug fix in UI",
+        "assignee": "Vedant",
+        "status": "In Progress"
+    },
+    {
+        "number": 2,
+        "type": "Story",
+        "description": "Create a rich UI for a website",
+        "assignee": "Vallabh",
+        "status": "Open"
+    },
+    {
+        "number": 3,
+        "type": "Subtask",
+        "description": "Test the application",
+        "assignee": "Janhavi",
+        "status": "In Progress"
+    },
+    {
+        "number": 4,
+        "type": "Bug",
+        "description": "Fix the bug in the get functionality",
+        "assignee": "Anup",
+        "status": "In Progress"
+    }
+]
